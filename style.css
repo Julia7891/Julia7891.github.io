@@ -1,0 +1,393 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin|Russo+One');@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+header {
+    background-image: url("%D0%92%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9_%D0%94%D1%83%D0%B1%D0%B0%D0%B9.jpg");
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+} 
+header>p{
+    font-size: 200px;
+    color:whitesmoke;
+    font-family: 'Pangolin', cursive;
+}
+body{
+    font-family: 'Comfortaa', cursive;
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+main{
+    margin: 0 200px;
+    display: flex;
+}
+.menu{
+    margin: 20px;
+    width: auto;
+    font-size: 20px;
+}
+.text{
+    margin: 20px;
+    font-size: 20px;
+}
+
+strong {
+    color:#DAA520;
+}
+a>div {
+    text-align: center;
+    background-color: #D6D6D6;
+    font-family: 'Comfortaa', cursive;
+    padding: 10px;
+    width: 170px;
+}
+.glav {
+    color:#DAA520;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.map {
+     margin: 0 30px;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.video {
+     margin: 0 30px;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+Footer>p{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    top: -20px;
+    margin: 0;
+}
+footer{
+    height: 100px;
+    background: rgb(244,244,244);
+    margin-top: 20px;
+    border-top: 3px dotted #DAA520;
+}
+.container2{
+    display: flex;
+    margin: 10px 50px;
+}
+.vk {
+    width: 50px;
+    height: 50px;
+    background-image: url('216520.png');
+    background-size: cover;
+    margin: 10px;
+    transition-duration: 1s;
+}
+.face {
+    width: 50px;
+    height: 50px;
+    background-image: url('1542197986_logo.png');
+    background-size: cover;
+    margin: 10px;
+    transition-duration: 1s;
+}
+.whats {
+    width: 50px;
+    height: 50px;
+    background-image: url('kisspng-whatsapp-computer-icons-android-whatsapp-5acc29e965d651.9798133215233295134171.jpg');
+    background-size: cover;
+    margin: 10px;
+    transition-duration: 1s;
+}
+.inst {
+    width: 50px;
+    height: 50px;
+    background-image: url('instagram-gold-382x382.png');
+    background-size: cover;
+    margin: 10px;
+    transition-duration: 1s;
+}
+.img1{
+    width: 400px;
+    height: 265px;
+    background-image: url('335829474568954.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.img2{
+    width: 400px;
+    height: 226px;
+    background-image: url('Dzhumeyra_(Jumeirah_Mosque)_Foto_dinosmichail_-_Depositphotos%20(1).jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.img3{
+    width: 400px;
+    height: 268px;
+    background-image: url('palmovye_ostrova_v_dubae.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.place2 {
+    color:#DAA520;
+}
+a{
+   margin: 0;
+    padding: 5px 0;
+    text-decoration:none;
+    color: black;
+    transition-duration: 1s; 
+}
+a>div{
+    margin: 0;
+    padding: 5px 0;
+    text-decoration:none;
+    color: black;
+    transition-duration: 1s;
+}
+a>div:hover{
+   color: #DAA520; 
+    transform: scale(1.2);
+}
+.history3 {
+    color:#DAA520;
+}
+.historu{
+    font-size: 20px;
+    padding: 15px;
+}
+.container3{
+    border: 2px solid #DAA520;
+    border-radius: 30px;
+     margin: 0 200px;
+}
+h1 {
+    text-align: center;
+}
+.histor{
+    font-size: 20px;
+    padding: 15px;
+    border: 2px solid #DAA520;
+    border-radius: 30px;
+}
+.img4 {
+    background-image: url("136478_900.jpg");
+    width: 390px;
+    height: 260px;
+    background-size: contain;
+    margin: 0 auto 10px;
+    border:  4px solid #DAA520;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.famous4 {
+    color:#DAA520;
+}
+h2{
+    color:#DAA520;
+}
+.img5 {
+    background-image: url("8765435678.jpg");
+    width: 389px;
+    height: 260px;
+    background-size: contain;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.img6 {
+    background-image: url("5a439d3c0325c.jpeg");
+    width: 400px;
+    height: 225px;
+    background-size: contain;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.img7 {
+    background-image: url("dubai_01_444x234.jpg");
+    width: 400px;
+    height: 212px;
+    background-size: contain;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.img8 {
+    background-image: url("thumb__uploads_countries_OAE_Plyaji-Dubai_sz_sz_Dubai_Beach03.jpg");
+    width: 400px;
+    height: 300px;
+    background-size: contain;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.img9 {
+    background-image: url("arabi-s-devushkami.jpg");
+    width: 400px;
+    height: 267px;
+    background-size: contain;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+}
+.histor2{
+    font-size: 14px;
+    padding: 10px;
+    border: 2px solid #DAA520;
+    border-radius: 30px;
+}
+.cont2 {
+    display: flex;
+}
+.foto5{
+    color:#DAA520;
+}
+.img10 {
+    background-image: url("foto_obrabotka_344.jpg");
+    width: 340px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img11 {
+    background-image: url("original.jpg");
+    width: 350px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img12 {
+    background-image: url("Finansovaya-stolitsa-OAE.jpg");
+    width: 340px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img13 {
+    background-image: url("burj-khalifa.jpg");
+    width: 350px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-position: 30px 0 0 0;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img14 {
+    background-image: url("800_800_fixed.jpg");
+    width: 340px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img15 {
+    background-image: url("transport-dubai-metro-emiratka.jpg");
+    width: 350px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img16 {
+    background-image: url("946e37.jpg");
+    width: 340px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img17 {
+    background-image: url("122.1-620x400.jpg");
+    width: 350px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img18 {
+    background-image: url("1455453654_otel-parus.jpg");
+    width: 340px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.img19 {
+    background-image: url("628.jpg");
+    width: 350px;
+    height: 182px;
+    background-size: cover;
+    margin: 10px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 10px 5px rgba(0,0,0,0.5);
+    transition-duration: .8s;
+}
+.t{
+    margin: auto;
+}
+.img10:hover{
+    transform: scale(1.1);
+}
+.img11:hover{
+    transform: scale(1.1);
+}
+.img12:hover{
+    transform: scale(1.1);
+}
+.img13:hover{
+    transform: scale(1.1);
+}
+.img14:hover{
+    transform: scale(1.1);
+}
+.img15:hover{
+    transform: scale(1.1);
+}
+.img16:hover{
+    transform: scale(1.1);
+}
+.img17:hover{
+    transform: scale(1.1);
+}
+.img18:hover{
+    transform: scale(1.1);
+}
+.img19:hover{
+    transform: scale(1.1);
+}
+.vk:hover {
+    transform:skewx(-15deg)
+}
+.face:hover {
+    transform: translate(10px,-10px);
+}
+.inst:hover{
+    transform: scale(1.2)
+}
+.whats:hover {
+    transform: rotate(45deg)
+}
